@@ -56,7 +56,7 @@ education:
   - area: BSc Software Engineering
     institution: University Of Bina Sarana Informatika
     date_start: 2024-09-20
-    date_end: now
+    date_end: 2024-09-20
     summary: |
      not yet
       
