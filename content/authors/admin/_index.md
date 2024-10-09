@@ -1,7 +1,7 @@
 ---
 # Display name
 
-# title: عبدالله عزام رباني
+# title : Abdullah
 
 # Name pronunciation (optional)
 name_pronunciation: Zam
@@ -160,7 +160,7 @@ awards:
     
   - title: Belajar Android Jetpack Pro
     url: https://www.dicoding.com/academies/129
-    certificate_url: dicoding.com/certificates/QLZ91OMQ2P5D
+    certificate_url: https://dicoding.com/certificates/QLZ91OMQ2P5D
     date: '2021-12-18'
     awarder: dicoding
     icon: dicoding
