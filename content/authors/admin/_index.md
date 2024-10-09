@@ -1,13 +1,14 @@
 ---
 # Display name
-title: 吳健雄
+
+# title: عبدالله عزام رباني
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Zam
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Abdullah Azzam 
+last_name: Rabbani
 
 # Status emoji
 status:
@@ -20,12 +21,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Android Developer and Data Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: GabutCodex
+    url: https://gabutcodex.wordpress.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -36,9 +37,9 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/wonderkid.eth
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/lildwagz
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -47,42 +48,18 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Android Development
+  - Data Science
+  - RestFul APIs
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Software Engineering
+    institution: University Of Bina Sarana Informatika
+    date_start: 2024-09-20
+    date_end: now
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+     not yet
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -112,8 +89,12 @@ work:
 skills:
   - name: Technical Skills
     items:
+      - name: Kotlin
+        description: 'Android Studio'
+        percent: 90
+        icon: code-bracket
       - name: Python
-        description: ''
+        description: 'Flask,pandas,Matplotlib'
         percent: 80
         icon: code-bracket
       - name: Data Science
@@ -122,8 +103,9 @@ skills:
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 80
         icon: circle-stack
+        
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -144,43 +126,74 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Arabic
     percent: 75
-  - name: Portuguese
-    percent: 25
-
+  - name: Indonesia
+    percent: 100
+    
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Cybersecurity Essentials Cisco Networking Academy 2020
+    url: https://drive.google.com/file/d/1CqJqASil35BXHFJDc9h8-nLNu6ihbvAM/view?usp=sharing
+    date: '2020-02-25'
+    awarder: cisco
+    icon: cisco
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
+        Describe the tactics, techniques and procedures used by cyber criminals; Describe the principles of confidentiality, integrity, and availability as they relate to data states and cybersecurity countermeasures;Describe technologies, products and procedures used to protect confidentiality, ensure integrity and provide high availability. Explain how cybersecurity professionals use technologies, processes and procedures to defend all components of the network.Explain the purpose of laws related to cybersecurity.
+  - title: Pcap Programming  Essential In Python
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+    date: '2020-05-15'
+    awarder: Python Institute
+    icon: Python Institute
     summary: |
       Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      - the universal concepts of computer programming (i.е. variables, flow control, data structures, algorithms, conditional execution, loops, functions, etc.)
+      - developer tools, developer tools and the runtime environment
+      - the syntax and semantics of the Python language
+      - the fundamentals of object-oriented programming and the way they are adopted in Python
+      - the means by which to resolve typical implementation problems
+      - the writing of Python programs using standard language infrastructure
+      - fundamental programming techniques, best practices, customs and vocabulary, including the most common library functions in Python 3
+    
+  - title: Belajar Android Jetpack Pro
+    url: https://www.dicoding.com/academies/129
+    certificate_url: dicoding.com/certificates/QLZ91OMQ2P5D
+    date: '2021-12-18'
+    awarder: dicoding
+    icon: dicoding
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Learned :
+      - Testing
+      - Android Jetpack
+      - Android Architecture Component
+      - ViewModel
+      - Studi Kasus Proyek Android Jetpack
+      - Studi Kasus Implementasi Architecture Component
+      - Repository dan Injection
+      - LiveData dan Retrofit
+      - Idling Resources
+      - Studi Kasus Implementasi Repository dan LiveData
+      - Room
+      - Paging
+      - RawQuery
+  - title:  Python Fundamental for Data Science 
+    url : https://academy.dqlab.id/main/package/practice/45?pf=0
+    certificate_url : https://academy.dqlab.id/certificate/pdf/DQLABINTP1MMALPM
+    date: '2024-09-24'
+    awarder: Dqlab
+    icon : dqlab
+    summary : |
+      Learned:
+      - Melakukan Generate Grafik dengan Matplotlib
+      - Melakukan Pembacaan File CVS dengan pandas
+      
+
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+ I was born in Blora, 2003 .I'm a skilled android  developer with 2+ years’ experience. Capable of building mobile apps from scratch integrated with RESTful APIs
+ also focus on user experience and performance. and also I'm into Data Engineering as well with 1 year of experience using sql and python to analyzing , sorting and maintaining data. looking forward to contributing my promblem solving skills.
