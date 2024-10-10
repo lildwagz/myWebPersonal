@@ -147,7 +147,7 @@ awards:
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2020-05-15'
     awarder: Python Institute
-    icon: custom/pythonlogo
+    icon: pythonlogo
     summary: |
       Learned:
       - the universal concepts of computer programming (i.е. variables, flow control, data structures, algorithms, conditional execution, loops, functions, etc.)
@@ -163,7 +163,7 @@ awards:
     certificate_url: https://dicoding.com/certificates/QLZ91OMQ2P5D
     date: '2021-12-18'
     awarder: dicoding
-    icon: custom/logoDicoding
+    icon: logoDicoding
     summary: |
       Learned :
       - Testing
