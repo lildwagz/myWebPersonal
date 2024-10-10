@@ -1,10 +1,10 @@
 ---
 # Display name
 
-title : Abdullah Azzam Rabbani
+title : عبدالله عزام رباني
 
 # Name pronunciation (optional)
-name_pronunciation: عبدالله عزام رباني
+name_pronunciation: Zam
 
 # Full name (for SEO)
 first_name: Abdullah Azzam 
@@ -147,7 +147,7 @@ awards:
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2020-05-15'
     awarder: Python Institute
-    icon: Python Institute
+    icon: custom/pythonlogo
     summary: |
       Learned:
       - the universal concepts of computer programming (i.е. variables, flow control, data structures, algorithms, conditional execution, loops, functions, etc.)
@@ -163,7 +163,7 @@ awards:
     certificate_url: https://dicoding.com/certificates/QLZ91OMQ2P5D
     date: '2021-12-18'
     awarder: dicoding
-    icon: dicoding
+    icon: custom/logoDicoding
     summary: |
       Learned :
       - Testing
