@@ -4,7 +4,7 @@
 title : عبدالله عزام رباني
 
 # Name pronunciation (optional)
-name_pronunciation: Zam
+name_pronunciation: Zam Rabbaney
 
 # Full name (for SEO)
 first_name: Abdullah Azzam 
@@ -89,12 +89,10 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Kotlin
-        description: 'Android Studio'
+      - name: Kotlin and Java
         percent: 90
-        icon: code-bracket
+        icon: devicon/androidstudio
       - name: Python
-        description: 'Flask,pandas,Matplotlib'
         percent: 80
         icon: code-bracket
       - name: Data Science
@@ -105,6 +103,11 @@ skills:
         description: ''
         percent: 80
         icon: circle-stack
+      - name : Docker
+        description: ''
+        percent : 60
+        icon : devicon/docker
+        
         
   - name: Hobbies
     color: '#eeac02'
@@ -118,16 +121,16 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Movies
         description: ''
         percent: 80
-        icon: camera
+        icon: hero/film
 
 languages:
   - name: English
     percent: 100
   - name: Arabic
-    percent: 75
+    percent: 65
   - name: Indonesia
     percent: 100
     
@@ -142,7 +145,11 @@ awards:
     awarder: cisco
     icon: cisco
     summary: |
-        Describe the tactics, techniques and procedures used by cyber criminals; Describe the principles of confidentiality, integrity, and availability as they relate to data states and cybersecurity countermeasures;Describe technologies, products and procedures used to protect confidentiality, ensure integrity and provide high availability. Explain how cybersecurity professionals use technologies, processes and procedures to defend all components of the network.Explain the purpose of laws related to cybersecurity.
+        - Describe the tactics, techniques and procedures used by cyber criminals
+        - Describe the principles of confidentiality, integrity, and availability as they relate to data states and cybersecurity countermeasures 
+        - Describe technologies, products and procedures used to protect confidentiality, ensure integrity and provide high availability. 
+        - Explain how cybersecurity professionals use technologies, processes and procedures to defend all components of the network.
+        - Explain the purpose of laws related to cybersecurity.
   - title: Pcap Programming  Essential In Python
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2020-05-15'
@@ -195,5 +202,5 @@ awards:
 
 ## About Me
 
- I was born in Blora, 2003 .I'm a skilled android  developer with 2+ years’ experience. Capable of building mobile apps from scratch integrated with RESTful APIs
+ I'm a skilled android  developer with 2+ years’ experience. Capable of building mobile apps from scratch integrated with RESTful APIs
  also focus on user experience and performance. and also I'm into Data Engineering as well with 1 year of experience using sql and python to analyzing , sorting and maintaining data. looking forward to contributing my promblem solving skills.
