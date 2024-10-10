@@ -1,7 +1,7 @@
 ---
 # Display name
 
-title : Abdullah Azzam Rabbani
+title : عبدالله عزام رباني
 
 # Name pronunciation (optional)
 name_pronunciation: Zam
