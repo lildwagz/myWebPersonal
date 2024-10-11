@@ -44,7 +44,7 @@ footer:
   copyright:
     notice: '© {year} Zam Rabbaney. This work is licensed under {license}'
     license:
-      enable: false
+      enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -60,3 +60,10 @@ features:
     enable: false
   privacy_pack:
     enable: false
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
