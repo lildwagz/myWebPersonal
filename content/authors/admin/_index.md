@@ -137,6 +137,7 @@ skills:
         description: ''
         percent: 80
         icon: hero/film
+        
 
 languages:
   - name: English

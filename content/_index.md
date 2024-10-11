@@ -49,7 +49,10 @@ sections:
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
+      spacing :
+        padding : ['20px', '0', '20px', '0']
       columns: '2'
+      
 
   - block: collection
     id: papers
