@@ -95,7 +95,7 @@ skills:
         icon: devicon/androidstudio
       - name: Python
         percent: 80
-        icon: code-bracket
+        icon: devicon/python
       - name: Data Science
         description: ''
         percent: 100
@@ -109,6 +109,17 @@ skills:
         percent : 60
         icon : devicon/docker
         
+  - name : Soft Skills
+    items :
+     - name : Problem Solving and Critical Thinking
+       percent : 100
+       icon : hero/light-bulb
+     - name :  Adaptability and Flexibility
+       percent : 100
+       icon : hero/arrow-path-rounded-square
+     - name : Fast Learner
+       percent : 100
+       icon : hero/bolt
         
   - name: Hobbies
     color: '#eeac02'
