@@ -76,7 +76,7 @@ work:
       - Perform root cause analysis of production errors and resolve technical issues
       - Develop scripts to automate visualization
      
-  - position: Coach , Marketer and Administrator
+  - position: Co-Founder and Coach of Riliskill 
     company_name: Riliskill
     company_url: ''
     company_logo: ''
@@ -84,9 +84,10 @@ work:
     date_end: 2021-08-30
     summary: |
       Responsibilities include:
+      - Assist with company leadership and vision
       - Teaching and Coaching online courses about Database Normalization
-      - Managing Webserver of the company
-      - Marketing
+      - Helping with business goals
+      - Developing The Company alongside with the Founder in short and long-term strategies
      
   - position : Team Leader of Stugent Project
     company_name : Rabbaanii Islamic School
