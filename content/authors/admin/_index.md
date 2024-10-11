@@ -55,32 +55,50 @@ interests:
 
 education:
   - area: BSc Software Engineering
-    institution: University Of Bina Sarana Informatika, Expected 2028
+    institution: University Of Bina Sarana Informatika
     date_start: 2024-09-20
-   
+  - area : Software Engineering
+    institution : IT Rabbaanii Islamic School
+    date_start : 2019-06-05 
+    date_end : 2022-06-06
+    
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Devops Engineer
+    company_name: Infra Digital Nusantara
+    company_url: 'https://www.infradigital.io/'
+    company_logo: 'https://idn-static-assets.s3.ap-southeast-1.amazonaws.com/website/img/logo_infra.png'
+    date_start: 2024-10-20
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Deploy updates and fixes, and provide Level 2 technical support
+      - Build tools to reduce occurrence of errors and improve customer experience
+      - Perform root cause analysis of production errors and resolve technical issues
+      - Develop scripts to automate visualization
+     
+  - position: Coach , Marketer and Administrator
+    company_name: Riliskill
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-02-05
+    date_end: 2021-08-30
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Teaching and Coaching online courses about Database Normalization
+      - Managing Webserver of the company
+      - Marketing
+     
+  - position : Team Leader of Stugent Project
+     - company_name : Rabbaanii Islamic School
+     - company_url : 'https://ppdb.rabbaanii.sch.id/'
+     - company_logo : ''
+     - date_start : 2020-12-02
+     - date_end : 2020-12-14
+     summary : |
+       Responsibilities include:
+        - Writing high quality code and performing code reviews for the rest of the team
+        - Organization and overseeing team communication with clients: live meetings, email correspondence, reporting, etc
+        - Providing technical leadership and guidance on project plans and delivery commitments 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -196,6 +214,7 @@ awards:
       - Room
       - Paging
       - RawQuery
+     
   - title:  Python Fundamental for Data Science 
     url : https://academy.dqlab.id/main/package/practice/45?pf=0
     certificate_url : https://academy.dqlab.id/certificate/pdf/DQLABINTP1MMALPM
