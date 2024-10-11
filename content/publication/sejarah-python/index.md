@@ -17,7 +17,7 @@ publication_types: ["article"]
 publication: "University Of Bina Sarana Informatika"
 publication_short: ""
 
-abstract: Melihat pentingnya Python dalam dunia software engineering, maka penulis membuat makalah ini bertujuan untuk memberikan pengenalan tengang python dan sejarah perkembangannya. Mulai dari bentuk tipe datanya hingga cara penulisan code di python. Di harapkan pembaca dapat memahami dan mengaplikasikan dalam studi dan pengembangan karir mereka di bidang software engineering.
+abstract: Melihat pentingnya Python dalam dunia software engineering, maka penulis membuat makalah ini bertujuan untuk memberikan pengenalan tentang python dan sejarah perkembangannya. Mulai dari bentuk tipe datanya hingga cara penulisan code di python. Di harapkan pembaca dapat memahami dan mengaplikasikan dalam studi dan pengembangan karir mereka di bidang software engineering.
 
 # Summary. An optional shortened abstract.
 summary: Python adalah bahasa pemrograman tingkat tinggi yang di buat oleh GuidoVan Rossum pada rilisan pertama tahun 1991, dan banyak digunakan karenakemudahan dalam belajar dan fleksibilitasnya. Oleh karena itu dengan memahamiPython sangat penting untuk peluang karir di bidang teknologi, karena banyakperusahaan mencari profesional yang terampil dalam bahasa ini. Di samping itupython juga memiliki komunitas yang besar yang kuat memfasilitasi pembelajarandan berbagi pengetahuan, mempermudah perkembangan keterampilan pemrograman.
