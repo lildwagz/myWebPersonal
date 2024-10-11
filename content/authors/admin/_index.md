@@ -51,6 +51,7 @@ interests:
   - Android Development
   - Data Science
   - RestFul APIs
+  - CyberSec
 
 education:
   - area: BSc Software Engineering
@@ -203,4 +204,4 @@ awards:
 ## About Me
 
  I'm a skilled android  developer with 2+ years’ experience. Capable of building mobile apps from scratch integrated with RESTful APIs
- also focus on user experience and performance. and also I'm into Data Engineering as well with 1 year of experience using sql and python to analyzing , sorting and maintaining data. looking forward to contributing my promblem solving skills.
+ also focus on user experience and performance. and also I'm into Data Engineering as well with 1 year of experience using sql and python to analyzing , sorting and maintaining data. looking forward to contributing my problem-solving skills.
