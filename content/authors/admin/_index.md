@@ -89,13 +89,12 @@ work:
       - Marketing
      
   - position : Team Leader of Stugent Project
-     - company_url : 'https://ppdb.rabbaanii.sch.id/'
-     - company_logo : ''
-     - date_start : 2020-12-02
-     - date_end : 2020-12-14
-     - company_name : Rabbaanii Islamic School
-
-     summary : |
+    company_name : Rabbaanii Islamic School
+    company_url : 'https://ppdb.rabbaanii.sch.id/'
+    company_logo : ''
+    date_start : 2020-12-02
+    date_end : 2020-12-14
+    summary : |
        Responsibilities include:
         - Writing high quality code and performing code reviews for the rest of the team
         - Organization and overseeing team communication with clients: live meetings, email correspondence, reporting, etc
