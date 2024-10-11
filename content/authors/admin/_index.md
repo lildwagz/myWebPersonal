@@ -57,7 +57,6 @@ education:
   - area: BSc Software Engineering
     institution: University Of Bina Sarana Informatika, Expected 2028
     date_start: 2024-09-20
-    date_end: now
    
 work:
   - position: Director of Cloud Infrastructure
