@@ -14,7 +14,7 @@ publishDate: "2024-10-11T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "University Of Bina Sarana Informatika"
 publication_short: ""
 
 abstract: Melihat pentingnya Python dalam dunia software engineering, maka penulis membuat makalah ini bertujuan untuk memberikan pengenalan tengang python dan sejarah perkembangannya. Mulai dari bentuk tipe datanya hingga cara penulisan code di python. Di harapkan pembaca dapat memahami dan mengaplikasikan dalam studi dan pengembangan karir mereka di bidang software engineering.
