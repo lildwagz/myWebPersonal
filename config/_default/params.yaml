@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    description: 'Devs Ops and Android Developer using android studio'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -44,7 +44,7 @@ footer:
   copyright:
     notice: '© {year} Zam Rabbaney. This work is licensed under {license}'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
