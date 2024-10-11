@@ -4,7 +4,7 @@
 title : Abdullah Azzam Rabbani
 
 # Name pronunciation (optional)
-name_pronunciation: Zam
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Abdullah Azzam 
