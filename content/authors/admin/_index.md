@@ -55,12 +55,10 @@ interests:
 
 education:
   - area: BSc Software Engineering
-    institution: University Of Bina Sarana Informatika
+    institution: University Of Bina Sarana Informatika, Expected 2028
     date_start: 2024-09-20
-    date_end: 2024-09-20
-    summary: |
-     not yet
-      
+    date_end: 'present'
+   
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -129,10 +127,10 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Blockchain
         description: ''
         percent: 100
-        icon: cat
+        icon: cube
       - name: Movies
         description: ''
         percent: 80
