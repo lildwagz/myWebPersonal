@@ -2,7 +2,7 @@
 title: "Data Analysis for Retail: Sales Performance Report"
 authors:
 - admin
-date: "2024-10-08T00:00:00Z"
+date: "2024-10-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,7 +31,7 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: "zamrabbaney.site/publication/AnalysisforRetails/PortofolioDataAnalysisforRetails.pdf"
+url_pdf: "/publication/AnalysisforRetails/PortofolioDataAnalysisforRetails.pdf"
 
 
 # Featured image
@@ -46,7 +46,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ["Sales Perfomance Report"]
+projects: ["PerfomanceReport"]
 #- internal-project
 
 # Slides (optional).
