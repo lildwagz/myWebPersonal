@@ -31,7 +31,7 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: ""
+url_pdf: "zamrabbaney.site/publication/AnalysisforRetails/PortofolioDataAnalysisforRetails.pdf"
 
 
 # Featured image
