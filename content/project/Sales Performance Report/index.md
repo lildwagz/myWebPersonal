@@ -8,6 +8,6 @@ tags:
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Menggunakan SQL untuk mendapatkan data yang di minta seperti data penjualan setiap tahun dari DQLab Store, dan menganalisa data tersebut. 
 
 <!--more-->
