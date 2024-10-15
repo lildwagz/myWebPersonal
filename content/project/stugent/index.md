@@ -7,6 +7,6 @@ tags:
   - Android Studio
 ---
 
-Aplikasi ini bertujuan menginput data nilai siswa yang di isi oleh guru dan juga memudahkan guru untuk menilai data siswa
+Aplikasi Presensi berbasis Android yang Terintegrasi dengan Server, berfungsi untuk menginput data nilai siswa yang di isi oleh guru dan juga memudahkan guru untuk menilai data siswa
 
 <!--more-->
