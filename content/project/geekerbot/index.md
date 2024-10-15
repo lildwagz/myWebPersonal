@@ -1,6 +1,6 @@
 ---
 title: GeekerBot
-date: 2021-10-26
+date: 2021-01-26
 external_link: https://github.com/lildwagz/GeekerBot/tree/main
 tags:
   - Python
