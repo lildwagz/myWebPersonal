@@ -1,6 +1,6 @@
 ---
 title: StugentApp
-date: 202o-01-26
+date: 2020-01-26
 external_link: https://github.com/lildwagz/stugent/tree/main
 tags:
   - Java
