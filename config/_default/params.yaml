@@ -12,10 +12,10 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
+    local_business_type: 'Technology'
+    org_name: 'GabutCodex'
     description: 'Devs Ops and Android Developer using android studio'
-    twitter: 'GetResearchDev'
+    twitter: 'zamrabbaney'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
