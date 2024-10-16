@@ -8,6 +8,12 @@ tags:
   - Hugo
   - Hugo Blox
   - Markdown
+  
+links:
+#- name: Custom Link
+#  url: http://example.org
+url_pdf: https://www.scribd.com/document/778773566/SEJARAH-PERKEMBANGAN-PYTHON-DAN-PENGENALAN-PYTHON
+
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---

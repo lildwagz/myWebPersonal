@@ -1,2 +1,2 @@
-# [My Personal Website](https://zamrabbaney.netlify.app)
+# [My Personal Website](https://zamrabbaney.site)
 
