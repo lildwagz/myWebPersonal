@@ -3,7 +3,7 @@ title: "PENGERTIAN FLOWCHART DAN CONTOHNYA | Tugas Kelompok"
 authors:
 - admin
 - "La Ode Achmed Sayyed P"
-- " Ammar Ichsan Anthonny3"
+- "Ammar Ichsan Anthonny"
 
 date: "2024-10-17T00:00:00Z"
 doi: ""
