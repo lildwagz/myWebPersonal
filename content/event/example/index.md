@@ -51,7 +51,9 @@ url_video: 'https://youtube.com'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: 
+  theme: black # Reveal JS theme name
+  highlight_style: dracula # Highlight JS theme name
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
