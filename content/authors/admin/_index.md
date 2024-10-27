@@ -168,6 +168,20 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Data Manipulation with Pandas 1
+    url: https://academy.dqlab.id/main/package/practice/178/0?pf=0
+    date: '2024-10-28'
+    certificate_url : https://academy.dqlab.id/certificate/pdf/DQLABINTP1JRDEFP
+    awarder: dqlab
+    icon: dqlab
+    summary: |
+         - Understanding the Pandas library and its interaction with numpy
+         - Understanding and practicing how to create series and dataframes in Pandas from various data types such as lists, lists of lists, dicts, or numpy arrays
+         - Understanding and practicing how to read datasets from various standard formats such as CSV, TSC, Excel, Json, SQL so that they can be used as a Pandas dataframe/series and how to save them in standard dataset formats.
+         - Be able to understand and practicing the process of indexing, transformation and slicing on dataframes
+         - Be able to understand and practice how to handle missing values in a dataframe
+         - Practice to working on simple business projects using Pandas
+     
   - title: Cybersecurity Essentials Cisco Networking Academy 2020
     url: https://drive.google.com/file/d/1CqJqASil35BXHFJDc9h8-nLNu6ihbvAM/view?usp=sharing
     date: '2020-02-25'
