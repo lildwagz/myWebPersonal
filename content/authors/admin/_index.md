@@ -171,7 +171,7 @@ awards:
   - title: Data Visualization with Python Matplotlib for Beginner - Part 1 
     url : https://academy.dqlab.id/main/package/practice/164/0?pf=0
     date: '2024-10-28'
-    certifcate_url : https://academy.dqlab.id/certificate/pdf/DQLABDTWP1SPVCJK
+    certificate_url : https://academy.dqlab.id/certificate/pdf/DQLABDTWP1SPVCJK
     awarder: DqLab
     icon : dqlab
     summary : |
