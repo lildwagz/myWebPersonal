@@ -65,14 +65,17 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Preprints
       text: ""
       filters:
         folders:
           - publication
         exclude_featured: false
+        publication_type: article
+        offset: 0
+        sort_by: 'Date'
     design:
-      view: compact 
+      view: citation
 #  - block: collection
 #    id: talks
 #    content:
