@@ -48,7 +48,7 @@ url_poster: "https://zamrabbaney.site/publication/project_mkwk/featured.png"
 image:
   caption: 'Image credit: [**Unsplash**](featured.png)'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
