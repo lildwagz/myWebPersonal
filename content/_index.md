@@ -65,15 +65,12 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Preprints
+      title: Recent Publications
       text: ""
       filters:
         folders:
           - publication
         exclude_featured: false
-        publication_type: article
-        offset: 0
-        sort_by: 'Date'
     design:
       view: citation
 #  - block: collection
