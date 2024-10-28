@@ -20,6 +20,7 @@ publication_types: ["Assigment"]
 # Publication name and optional abbreviated publication name.
 publication: "University Of Bina Sarana Informatika"
 publication_short: ""
+location: "Masjid baiturahman"
 
 abstract: Projek ini bertujuan untuk meningkatkan kesadaran dan partisipasi masyarakat dalam menjaga kebersihan dan keindahan masjid melalui kegiatan gotong royong. Dengan kegiatan ini, diharapkan dapat meningkatkan rasa tanggung jawab dan kesadaran akan pentingnya menjaga kebersihan dan keindahan masjid. Selain itu, projek ini juga bertujuan untuk memperkuat hubungan antara masyarakat dan masjid, serta meningkatkan kesadaran akan pentingnya kerja sama dan gotong royong dalam masyarakat.
 
