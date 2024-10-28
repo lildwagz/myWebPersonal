@@ -30,6 +30,10 @@ sections:
           size: cover
           position: center
           parallax: false
+  -  block: resume-languages
+     content:
+      title: Languages
+      username: admin
 #  - block: markdown
 #    content:
 #      title: '📚 My Research'
