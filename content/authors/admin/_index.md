@@ -168,6 +168,18 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Data Visualization with Python Matplotlib for Beginner - Part 1 
+    url : https://academy.dqlab.id/main/package/practice/164/0?pf=0
+    date: '2024-10-28'
+    certifcate_url : https://academy.dqlab.id/certificate/pdf/DQLABDTWP1SPVCJK
+    awarder: DqLab
+    icon : dqlab
+    summary : |
+     - Preparing the necessary data
+     - Creating a plot from the prepared data
+     - Customizing various components in the chart that has been created, such as figure size, title, axis labels, axis ticks, style of lines/points in the chart, grid, text, and others
+     - Saving the created image.
+     
   - title: Data Manipulation with Pandas 2
     url: https://academy.dqlab.id/main/package/practice/252/0?pf=0
     date: '2024-10-28'
