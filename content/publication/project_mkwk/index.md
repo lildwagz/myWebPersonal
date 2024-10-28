@@ -6,19 +6,19 @@ authors:
 - "Muhammad Januar Ilham"
 - "Hafidz gulam syawar"
 - "giovano fitra nanda"
-date: "2024-10-08T00:00:00Z"
+date: "2024-09-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-10-14T00:00:00Z"
+publishDate: "2024-09-27T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["Assigments"]
+publication_types: ["Assigment"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "University Of Bina Sarana Informatika"
 publication_short: ""
 
 abstract: Projek ini bertujuan untuk meningkatkan kesadaran dan partisipasi masyarakat dalam menjaga kebersihan dan keindahan masjid melalui kegiatan gotong royong. Dengan kegiatan ini, diharapkan dapat meningkatkan rasa tanggung jawab dan kesadaran akan pentingnya menjaga kebersihan dan keindahan masjid. Selain itu, projek ini juga bertujuan untuk memperkuat hubungan antara masyarakat dan masjid, serta meningkatkan kesadaran akan pentingnya kerja sama dan gotong royong dalam masyarakat.
@@ -39,7 +39,7 @@ links:
 #- name: Custom Link
 #  url: http://example.org
 url_video : "https://drive.google.com/file/d/1ZQvhmjHDZxQPly8U9W4u5QZ6OERSOf05/view?usp=drive_link"
-url_poster: ""
+url_poster: "https://zamrabbaney.site/publication/project_mkwk/featured.png"
 
 
 # Featured image
