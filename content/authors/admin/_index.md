@@ -168,6 +168,20 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Data Manipulation with Pandas 2
+    url: https://academy.dqlab.id/main/package/practice/252/0?pf=0
+    date: '2024-10-28'
+    certificate_url : https://academy.dqlab.id/certificate/pdf/DQLABINTP1OFUEVL
+    awarder: dqlab
+    icon: dqlab
+    summary: |
+         - Can apply data combination techniques between Series and Dataframe using concat, merge, and join.
+         - Can understand the concept and apply pivot, melt, stack, and unstack techniques on a dataframe to reformat data.
+         - Can understand the concept and apply groupby and aggregation techniques to reduce data volume.
+         - Familiar with and understand the concept of time series in Pandas
+         - Practice working on a simple business project using pandas"
+
+    
   - title: Data Manipulation with Pandas 1
     url: https://academy.dqlab.id/main/package/practice/178/0?pf=0
     date: '2024-10-28'
@@ -181,6 +195,7 @@ awards:
          - Be able to understand and practicing the process of indexing, transformation and slicing on dataframes
          - Be able to understand and practice how to handle missing values in a dataframe
          - Practice to working on simple business projects using Pandas
+    
      
   - title: Cybersecurity Essentials Cisco Networking Academy 2020
     url: https://drive.google.com/file/d/1CqJqASil35BXHFJDc9h8-nLNu6ihbvAM/view?usp=sharing
