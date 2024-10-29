@@ -20,7 +20,7 @@ publication_types: ["assignment"]
 # Publication name and optional abbreviated publication name.
 publication: "University Of Bina Sarana Informatika"
 publication_short: ""
-location: "Masjid baiturahman"
+location: "Masjid Baiturahman"
 
 abstract: Projek ini bertujuan untuk meningkatkan kesadaran dan partisipasi masyarakat dalam menjaga kebersihan dan keindahan masjid melalui kegiatan gotong royong. Dengan kegiatan ini, diharapkan dapat meningkatkan rasa tanggung jawab dan kesadaran akan pentingnya menjaga kebersihan dan keindahan masjid. Selain itu, projek ini juga bertujuan untuk memperkuat hubungan antara masyarakat dan masjid, serta meningkatkan kesadaran akan pentingnya kerja sama dan gotong royong dalam masyarakat.
 
@@ -40,7 +40,7 @@ links:
 #- name: Custom Link
 #  url: http://example.org
 url_video : "https://youtu.be/Y4MeqmBzeVk?si=BJloS43YFj1TuiFk"
-url_poster: "https://zamrabbaney.site/publication/project_mkwk/featured.png"
+url_poster: "https://www.instagram.com/p/DBtjstKSnW7/?igsh=M3VxaW1kNXVtaTE2"
 
 
 # Featured image
