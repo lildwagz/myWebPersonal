@@ -39,7 +39,7 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_video : "https://drive.google.com/file/d/1ZQvhmjHDZxQPly8U9W4u5QZ6OERSOf05/view?usp=drive_link"
+url_video : "https://youtu.be/Y4MeqmBzeVk?si=BJloS43YFj1TuiFk"
 url_poster: "https://zamrabbaney.site/publication/project_mkwk/featured.png"
 
 
