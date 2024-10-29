@@ -168,6 +168,20 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+ 
+  - title: Data Visualization with Python Matplotlib for Beginner - Part 2
+    url : https://academy.dqlab.id/main/package/practice/165/0?pf=0
+    date : '2024-10-30'
+    certificate_url : https://academy.dqlab.id/certificate/pdf/DQLABINTP1MPVNSI
+    awarder : DqLab
+    icon : dqlab
+    summary : |
+     - Creating a multi-line chart
+     - Creating a pie chart or multi-bar chart
+     - Creating a distribution graph of a data using a histogram
+     - Creating a customized scatterplot to display visually appealing results and provide insight to the reader
+     - Working on a mini project to visualize retail product data based on the knowledge and skills acquired in previous chapters
+     
   - title: Data Visualization with Python Matplotlib for Beginner - Part 1 
     url : https://academy.dqlab.id/main/package/practice/164/0?pf=0
     date: '2024-10-28'
