@@ -168,7 +168,20 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
- 
+  - title : Machine Learning With Python for Beginner 
+    url : https://academy.dqlab.id/main/package/practice/169/0?pf=0
+    date : '2024-10-31'
+    certificate_url : https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2FDTLLC
+    awarder : DqLab
+    icon : dqlab
+    summary : |
+     - Understanding what machine learning is and its types for modeling
+     - Understanding and being able to perform Data Exploration & Data Pre-processing
+     - Understanding and being able to perform modeling processes with Scikit-Learn
+     - Understanding and being able to perform modeling processes using algorithms in Supervised Learning
+     - Understanding and being able to perform modeling processes using algorithms in Unsupervised Learning
+     - Working on a mini project that integrates all the material and previous modules to solve a business problem.
+     
   - title: Data Visualization with Python Matplotlib for Beginner - Part 2
     url : https://academy.dqlab.id/main/package/practice/165/0?pf=0
     date : '2024-10-30'
