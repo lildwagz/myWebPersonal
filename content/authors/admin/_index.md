@@ -63,18 +63,18 @@ education:
     date_end : 2022-06-06
     
 work:
-  - position: Devops Engineer
-    company_name: Infra Digital Nusantara
-    company_url: 'https://www.infradigital.io/'
-    company_logo: 'https://idn-static-assets.s3.ap-southeast-1.amazonaws.com/website/img/logo_infra.png'
-    date_start: 2024-10-20
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - Deploy updates and fixes, and provide Level 2 technical support
-      - Build tools to reduce occurrence of errors and improve customer experience
-      - Perform root cause analysis of production errors and resolve technical issues
-      - Develop scripts to automate visualization
+#  - position: Devops Engineer
+#    company_name: Infra Digital Nusantara
+#    company_url: 'https://www.infradigital.io/'
+#    company_logo: 'https://idn-static-assets.s3.ap-southeast-1.amazonaws.com/website/img/logo_infra.png'
+#    date_start: 2024-10-20
+#    date_end: ''
+#    summary: |2-
+#      Responsibilities include:
+#      - Deploy updates and fixes, and provide Level 2 technical support
+#      - Build tools to reduce occurrence of errors and improve customer experience
+#      - Perform root cause analysis of production errors and resolve technical issues
+#      - Develop scripts to automate visualization
      
   - position: Co-Founder and Coach of Riliskill 
     company_name: Riliskill
