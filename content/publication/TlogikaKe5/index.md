@@ -31,7 +31,7 @@ featured: false
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: /publication/TlogikaKe4/TgasLogiKe-5.pdf
+url_pdf: /publication/TlogikaKe5/TgasLogiKe-5.pdf
 
 
 # Featured image
