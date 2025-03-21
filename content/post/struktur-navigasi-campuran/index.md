@@ -8,7 +8,7 @@ tags:
   - Web Programming
   - flowchart
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Image credit: zamrabbaney.site'
 ---
 
 Navigasi campuran adalah pendekatan yang menggabungkan berbagai jenis struktur navigasi dalam satu website untuk meningkatkan kemudahan penggunaan (usability) dan fleksibilitas. 
