@@ -24,7 +24,7 @@ summary: Tugas Kelompok membuat program sederhana klinik gigi
 tags:
 - Dasar Pemgrograman 
 
-featured: false
+featured: true
 
 links:
 #- name: Custom Link

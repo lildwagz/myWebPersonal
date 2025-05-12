@@ -34,7 +34,7 @@ tags:
 - MkWk 
 - ppkn
 
-featured: true
+featured: false
 
 links:
 #- name: Custom Link

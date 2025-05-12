@@ -24,7 +24,7 @@ summary: This individual task involved implementing Stack (LIFO) and Queue (FIFO
 tags:
 - Data Structure Assigments
 
-featured: false
+featured: true
 
 links:
 #- name: Custom Link
