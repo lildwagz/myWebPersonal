@@ -41,9 +41,10 @@ tags:
 featured: true
 
 links:
-url_pdf: "/publication/LibraryManagemntSystem/LBS_report.pdf"
+url_pdf: "/publication/LibraryManagementSystem/LBS_report.pdf"
 url_code: "https://github.com/lildwagz/LBS"
-url_slide : "/publication/LibraryManagemntSystem/LBS_PPT.pdf"
+url_slides : "/publication/LibraryManagementSystem/LBS_PPT.pdf"
+url_dataset: ""
 # Featured image
 image:
   caption: 'Dashboard Admin - Manajemen Buku dan Statistik'
