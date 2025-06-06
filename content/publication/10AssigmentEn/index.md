@@ -1,12 +1,12 @@
 ---
-title: "Meeting Assigment 9 | English "
+title: "Meeting Assigment 10 | English "
 authors:
 - admin
-date: "2025-05-23T00:00:00Z"
+date: "2025-06-6T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-05-23T00:00:00Z"
+publishDate: "2025-06-6T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,8 +17,8 @@ publication_types: ["assignment","english"]
 publication: "University Of Bina Sarana Informatika"
 publication_short: ""
 
-abstract: Pertemuan ke-9 membahas jaringan komputer (computer network) dengan fokus pada definisi, klasifikasi, komponen infrastruktur, serta konsep dasar yang relevan. Berdasarkan materi, jaringan komputer didefinisikan sebagai sistem interkoneksi antarperangkat (node) untuk memfasilitasi pertukaran data dan sumber daya. Keunggulan utamanya mencakup resource sharing (seperti printer atau server) dan efisiensi komunikasi data, yang menjadi fondasi kolaborasi digital di era modern.
-summary: Pertemuan ke-9 membahas jaringan komputer (computer network) dengan fokus pada definisi, klasifikasi, komponen infrastruktur, serta konsep dasar yang relevan. Berdasarkan materi, jaringan komputer didefinisikan sebagai sistem interkoneksi antarperangkat (node) untuk memfasilitasi pertukaran data dan sumber daya. Keunggulan utamanya mencakup resource sharing (seperti printer atau server) dan efisiensi komunikasi data, yang menjadi fondasi kolaborasi digital di era modern.
+abstract: This summary covers the fundamental concepts of steganography, which is defined as the art and science of writing hidden messages in such a way that their very existence is concealed from anyone other than the intended recipient. This method provides security through obscurity and is distinctly different from cryptography, which only obscures the meaning of a message but does not hide the message itself. The primary advantage of steganography is that its messages do not attract attention or arouse suspicion.
+summary: This summary covers the fundamental concepts of steganography, which is defined as the art and science of writing hidden messages in such a way that their very existence is concealed from anyone other than the intended recipient. This method provides security through obscurity and is distinctly different from cryptography, which only obscures the meaning of a message but does not hide the message itself. The primary advantage of steganography is that its messages do not attract attention or arouse suspicion.
 tags:
 - English Assigments
 
@@ -27,7 +27,7 @@ featured: false
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: /publication/9AssigmentEn/meeting9assigmentEn.pdf
+url_pdf: /publication/10AssigmentEn/meeting10assigmentEn.pdf
 
 
 # Featured image
