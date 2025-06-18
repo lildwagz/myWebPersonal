@@ -1,5 +1,5 @@
 ---
-title: "TUGAS LOGIKA DAN ALGORITMA PERTEMUAN KE-1 "
+title: "Implementasi Stack | Structure Data"
 authors:
 - admin
 date: "2025-06-17T00:00:00Z"
@@ -30,7 +30,7 @@ links:
 #- name: Custom Link
 #  url: http://example.org
 url_pdf: /publication/structureData_Stack/makalah_stack.pdf
-url_ppt: /publication/structureData_Stack/ppt_structurdata.pdf
+url_slides: /publication/structureData_Stack/ppt_structurdata.pdf
 
 
 # Featured image
