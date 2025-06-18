@@ -30,6 +30,7 @@ links:
 #- name: Custom Link
 #  url: http://example.org
 url_pdf: /publication/structureData_Stack/makalah_stack.pdf
+url_ppt: /publication/structureData_Stack/ppt_structurdata.pdf
 
 
 # Featured image
