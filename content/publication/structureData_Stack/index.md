@@ -31,7 +31,7 @@ links:
 #  url: http://example.org
 url_pdf: /publication/structureData_Stack/makalah_stack.pdf
 url_slides: /publication/structureData_Stack/ppt_structurdata.pdf
-
+url_code: "https://github.com/lildwagz/stack_python"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
