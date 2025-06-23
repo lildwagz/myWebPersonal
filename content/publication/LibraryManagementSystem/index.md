@@ -1,58 +1,62 @@
 ---
-title: "Library Management System"
+title: "Resep Aplikasi Web "
 authors:
 - admin
-- "Achmar Ichsan Anthony"
-- "Fauzan Iqbal"
-- "La Ode Achmed Sayyed Purnomo"
-- "Yudistira Agung Kurnia"
-- "Junithan Sehti Aditia"
-date: "2025-05-18T00:00:00Z"
+date: "2025-06-24T00:00:00Z"
 doi: ""
 
-# Schedule page publish date
-publishDate: "2025-05-18T00:00:00Z"
+# Schedule page publish date (NOT publication's date).
+publishDate: "2025-06-24T00:00:00Z"
 
-# Publication type
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
 publication_types: ["portfolio"]
 
-# Publication details
-publication: "Sistem Manajemen Peminjaman Buku Perpustakaan"
-publication_short: "Library Management System"
+# Publication name and optional abbreviated publication name.
+publication: "University Of Bina Sarana Informatika"
+publication_short: ""
 
-abstract: |
-  Sistem desktop berbasis Java Swing dan MySQL untuk mengotomasi manajemen peminjaman buku. Fitur utama mencakup:
-  - Autentikasi dua peran (Admin dan User)
-  - Pencatatan transaksi real-time dengan sinkronisasi stok
-  - Dashboard analitik dengan visualisasi grafik interaktif
-  - Manajemen katalog 500+ buku
+abstract: Logika dan algoritma yaitu dua konsep fundamental dalam ilmu komputer yang saling terkait dan mendasari pengembangan perangkat lunak serta sistem informasi. Logika digunakan untuk memahami dan mendefinisikan struktur pemikiran yang sistematis, sedangkan algoritma merupakan serangkaian langkah atau alur yang diikuti untuk menyelesaikan suatu masalah atau mencapai tujuan tertentu. Dalam konteks ini, logika membantu dalam merancang algoritma yang efisien dan efektif, sedangkan algoritma memberikan implementasi konkret dari prinsip-prinsip logika. Dalam contoh kehidupan kita sehari-sehari seperti membeli buku, mengirim email ke teman d.l.l. Semua itu terdapat algoritmat untuk mengerjakannya 
 
-# Summary
-summary: Solusi digital untuk transformasi sistem manual perpustakaan dengan mengurangi 92% kesalahan input dan memangkas waktu transaksi dari 5 menit ke 30 detik.
-
+# Summary. An optional shortened abstract.
+summary: Logika dan algoritma yaitu dua konsep fundamental dalam ilmu komputer yang saling terkait dan mendasari pengembangan perangkat lunak serta sistem informasi. Logika digunakan untuk memahami dan mendefinisikan struktur pemikiran yang sistematis, sedangkan algoritma merupakan serangkaian langkah atau alur yang diikuti untuk menyelesaikan suatu masalah atau mencapai tujuan tertentu. Dalam konteks ini, logika membantu dalam merancang algoritma yang efisien dan efektif, sedangkan algoritma memberikan implementasi konkret dari prinsip-prinsip logika. Dalam contoh kehidupan kita sehari-sehari seperti membeli buku, mengirim email ke teman d.l.l. Semua itu terdapat algoritmat untuk mengerjakannya 
+ 
+  
 tags:
-- Java Swing
-- MySQL
-- MVC Architecture
-- JDBC
-- JFreeChart
-- Desktop Application
+- PHP
+- Vue.js
+- JS
+- SLIM
 
 featured: true
 
 links:
-url_pdf: "/publication/LibraryManagementSystem/LBS_report.pdf"
-url_code: "https://github.com/lildwagz/LBS"
-url_slides : "/publication/LibraryManagementSystem/LBS_PPT.pdf"
-url_dataset: ""
-# Featured image
-image:
-  caption: 'Dashboard Admin - Manajemen Buku dan Statistik'
-  focal_point: "Smart"
-  preview_only: false
-  filename: library-dashboard.png
+#- name: Custom Link
+#  url: http://example.org
+url_pdf: /publication/recipeApp/RecipeApp.pdf
 
-# Associated Projects
-projects: ["LBS"]
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**Unsplash**](featured.png)'
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+#- internal-project
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+#slides: example
 ---
 
