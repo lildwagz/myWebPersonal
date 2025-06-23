@@ -27,7 +27,7 @@ featured: false
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: /publication/10AssigmentEn/meeting10assigmentEn.pdf
+url_pdf: /publication/10AssigmentEn/meeting9assignmentEn.pdf
 
 
 # Featured image
