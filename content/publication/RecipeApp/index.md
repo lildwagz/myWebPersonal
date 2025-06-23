@@ -45,6 +45,6 @@ image:
   filename: library-dashboard.png
 
 # Associated Projects
-projects: ["LBS"]
+projects: ["RecipeApp"]
 ---
 
