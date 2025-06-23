@@ -1,62 +1,49 @@
 ---
-title: "Resep Aplikasi Web "
+title: "Recipe App Full-stack"
 authors:
 - admin
-date: "2025-06-24T00:00:00Z"
+- "Achmar Ichsan Anthony"
+- "La Ode Achmed Sayyed Purnomo"
+- "Junithan Sehti Aditia"
+date: "2025-06-23T00:00:00Z"
 doi: ""
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2025-06-24T00:00:00Z"
+# Schedule page publish date
+publishDate: "2025-06-23T00:00:00Z"
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
+# Publication type
 publication_types: ["portfolio"]
 
-# Publication name and optional abbreviated publication name.
-publication: "University Of Bina Sarana Informatika"
-publication_short: ""
+# Publication details
+publication: "Aplikasi Resep Makanan"
+publication_short: "Aplikasi Resep Makanan"
 
-abstract: Logika dan algoritma yaitu dua konsep fundamental dalam ilmu komputer yang saling terkait dan mendasari pengembangan perangkat lunak serta sistem informasi. Logika digunakan untuk memahami dan mendefinisikan struktur pemikiran yang sistematis, sedangkan algoritma merupakan serangkaian langkah atau alur yang diikuti untuk menyelesaikan suatu masalah atau mencapai tujuan tertentu. Dalam konteks ini, logika membantu dalam merancang algoritma yang efisien dan efektif, sedangkan algoritma memberikan implementasi konkret dari prinsip-prinsip logika. Dalam contoh kehidupan kita sehari-sehari seperti membeli buku, mengirim email ke teman d.l.l. Semua itu terdapat algoritmat untuk mengerjakannya 
+abstract:  RecipeApp adalah aplikasi web full-stack modern yang dirancang untuk memudahkan pengguna mencari, melihat, dan menyimpan resep masakan. Aplikasi ini dibangun dengan arsitektur yang memisahkan antara frontend dan backend untuk skalabilitas dan kemudahan pengelolaan.
 
-# Summary. An optional shortened abstract.
-summary: Logika dan algoritma yaitu dua konsep fundamental dalam ilmu komputer yang saling terkait dan mendasari pengembangan perangkat lunak serta sistem informasi. Logika digunakan untuk memahami dan mendefinisikan struktur pemikiran yang sistematis, sedangkan algoritma merupakan serangkaian langkah atau alur yang diikuti untuk menyelesaikan suatu masalah atau mencapai tujuan tertentu. Dalam konteks ini, logika membantu dalam merancang algoritma yang efisien dan efektif, sedangkan algoritma memberikan implementasi konkret dari prinsip-prinsip logika. Dalam contoh kehidupan kita sehari-sehari seperti membeli buku, mengirim email ke teman d.l.l. Semua itu terdapat algoritmat untuk mengerjakannya 
- 
-  
+# Summary
+summary: RecipeApp adalah aplikasi web full-stack modern yang dirancang untuk memudahkan pengguna mencari, melihat, dan menyimpan resep masakan. Aplikasi ini dibangun dengan arsitektur yang memisahkan antara frontend dan backend untuk skalabilitas dan kemudahan pengelolaan.
 tags:
 - PHP
 - Vue.js
 - JS
-- SLIM
+- SLIM Framework
+
+
 
 featured: true
 
 links:
-#- name: Custom Link
-#  url: http://example.org
-url_pdf: /publication/recipeApp/RecipeApp.pdf
-
-
+url_code: "https://github.com/lildwagz/RecipeApp"
+url_slides : "/publication/RecipeApp/RecipeApp.pdf"
+url_dataset: ""
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](featured.png)'
-  focal_point: ""
-  preview_only: false
+  caption: 'Homepage - website resep makanan'
+  focal_point: "Smart"
+  preview_only: true
+  filename: library-dashboard.png
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-#- internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-#slides: example
+# Associated Projects
+projects: ["RecipeApp"]
 ---
 
