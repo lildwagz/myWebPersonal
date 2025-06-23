@@ -15,7 +15,7 @@ publishDate: "2025-06-24T00:00:00Z"
 publication_types: ["portfolio"]
 
 # Publication details
-publication: "Sistem Manajemen Peminjaman Buku Perpustakaan"
+publication: "Aplikasi Resep Makanan"
 publication_short: "Aplikasi Resep Makanan"
 
 abstract: |
