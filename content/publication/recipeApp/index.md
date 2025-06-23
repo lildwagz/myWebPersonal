@@ -34,7 +34,7 @@ featured: true
 
 links:
 url_code: "https://github.com/lildwagz/RecipeApp"
-url_slides : "/publication/RecipeApp/RecipeApp.pdf"
+url_slides : "/publication/RecipeApp/RecipApp.pdf"
 url_dataset: ""
 # Featured image
 image:
