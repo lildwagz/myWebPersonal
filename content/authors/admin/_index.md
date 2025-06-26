@@ -76,30 +76,30 @@ work:
 #      - Perform root cause analysis of production errors and resolve technical issues
 #      - Develop scripts to automate visualization
      
-  - position: Co-Founder and Coach of Riliskill 
-    company_name: Riliskill
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-02-05
-    date_end: 2021-08-30
-    summary: |
-      Responsibilities include:
-      - Assist with company leadership and vision
-      - Teaching and Coaching online courses about Database Normalization
-      - Helping with business goals
-      - Developing The Company alongside with the Founder in short and long-term strategies
-     
-  - position : Team Leader of Stugent Project
-    company_name : Rabbaanii Islamic School
-    company_url : 'https://ppdb.rabbaanii.sch.id/'
-    company_logo : ''
-    date_start : 2020-12-02
-    date_end : 2020-12-14
-    summary : |
-       Responsibilities include:
-        - Writing high quality code and performing code reviews for the rest of the team
-        - Organization and overseeing team communication with clients: live meetings, email correspondence, reporting, etc
-        - Providing technical leadership and guidance on project plans and delivery commitments 
+#  - position: Co-Founder and Coach of Riliskill 
+#    company_name: Riliskill
+#    company_url: ''
+#    company_logo: ''
+#    date_start: 2021-02-05
+#    date_end: 2021-08-30
+#    summary: |
+#      Responsibilities include:
+#      - Assist with company leadership and vision
+#      - Teaching and Coaching online courses about Database Normalization
+#      - Helping with business goals
+#      - Developing The Company alongside with the Founder in short and long-term strategies
+#     
+#  - position : Team Leader of Stugent Project
+#    company_name : Rabbaanii Islamic School
+#    company_url : 'https://ppdb.rabbaanii.sch.id/'
+#    company_logo : ''
+#    date_start : 2020-12-02
+#    date_end : 2020-12-14
+#    summary : |
+#       Responsibilities include:
+#        - Writing high quality code and performing code reviews for the rest of the team
+#        - Organization and overseeing team communication with clients: live meetings, email correspondence, reporting, etc
+#        - Providing technical leadership and guidance on project plans and delivery commitments 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
