@@ -1,12 +1,12 @@
 ---
-title: "TUGAS INDIVIDU - KERANGKA PORTOFOLIO KOMPETENSI PADA PROGRAM KLINIK GIGI"
+title: "TUGAS KELOMPOK - KLINIK GIGI  "
 authors:
 - admin
-date: "2025-09-28T00:00:00Z"
+date: "2024-10-17T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-09-28T00:00:00Z"
+publishDate: "2024-10-17T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,22 +17,19 @@ publication_types: ["assignment"]
 publication: "University Of Bina Sarana Informatika"
 publication_short: ""
 
-abstract: Laporan ini menganalisis implementasi Pemrograman Terstruktur pada studi kasus Program Klinik Gigi (Python). Analisis berfokus pada modularitas fungsi serta penggunaan struktur kontrol dasar percabangan dan perulangan. Proyek ini membuktikan penguasaan prinsip dasar pemrograman prosedural.
-
-
+abstract: Tugas Kelompok membuat program sederhana klinik gigi
 # Summary. An optional shortened abstract.
-summary: Laporan ini menganalisis implementasi Pemrograman Terstruktur pada studi kasus Program Klinik Gigi (Python). Analisis berfokus pada modularitas fungsi serta penggunaan struktur kontrol dasar percabangan dan perulangan. Proyek ini membuktikan penguasaan prinsip dasar pemrograman prosedural.
-
+summary: Tugas Kelompok membuat program sederhana klinik gigi
   
 tags:
-- Web Pemgrograman 
+- Dasar Pemgrograman 
 
 featured: true
 
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: /publication/AssigmentWeb2_1/webpro2_1.pdf
+url_pdf: /publication/TlogikaKe1/TgasLogikPer-1.pdf
 source_code : ""
 
 
