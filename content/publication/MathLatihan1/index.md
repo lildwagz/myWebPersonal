@@ -25,11 +25,10 @@ tags:
 
 featured: false
 
-links:
-#- name: Custom Link
-#  url: http://example.org
-url_pdf: /publication/MathLatihan1/Latihan1Math.pdf
 
+links:
+  - type: pdf
+    url: /publication/MathLatihan1/Latihan1Math.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

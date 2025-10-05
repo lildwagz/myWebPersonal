@@ -1,7 +1,9 @@
 ---
 title: Sistem Manajemen Peminjaman Buku Perpustakaan
 date: 2025-05-18
-external_link: https://github.com/lildwagz/LBS
+links: 
+  - type : site
+    url : https://github.com/lildwagz/LBS
 tags:
   - Java
   - MySQL

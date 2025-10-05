@@ -33,9 +33,10 @@ tags:
 featured: true
 
 links:
-url_code: "https://github.com/lildwagz/RecipeApp"
-url_slides : "/publication/RecipeApp/RecipApp.pdf"
-url_dataset: ""
+  - type: code
+    url : "https://github.com/lildwagz/RecipeApp"
+  - type : slides
+    url:  "/publication/RecipeApp/RecipApp.pdf"
 # Featured image
 image:
   caption: 'Homepage - website resep makanan'

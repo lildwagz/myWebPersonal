@@ -1,7 +1,10 @@
 ---
 title: HollyQuran
 date: 2024-01-26
-external_link: https://github.com/lildwagz/HollyQuran
+links:
+  - type: site
+    url: https://github.com/lildwagz/HollyQuran
+
 tags:
   - Kotlin
   - Android Studio

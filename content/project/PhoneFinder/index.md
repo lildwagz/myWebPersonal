@@ -1,7 +1,9 @@
 ---
 title: PhoneApp
 date: 2022-10-14
-external_link: https://github.com/lildwagz/PhoneApp
+links:
+  - type: site
+    url:  https://github.com/lildwagz/PhoneApp
 tags:
   - Kotlin
   - Android Studio

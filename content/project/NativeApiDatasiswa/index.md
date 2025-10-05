@@ -1,7 +1,10 @@
 ---
 title: Native Api Datasiswa
 date: 2021-06-05
-external_link : https://github.com/lildwagz/NativeApiDatasiswa
+
+links:
+  - type: site
+    url: https://github.com/lildwagz/NativeApiDatasiswa
 tags:
 - PHP
 - restfulApi

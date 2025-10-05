@@ -1,7 +1,10 @@
 ---
 title: StugentApp
 date: 2020-01-26
-external_link: https://github.com/lildwagz/stugent/tree/main
+
+links:
+  - type: site
+    url:  https://github.com/lildwagz/stugent/tree/main
 tags:
   - Java
   - Android Studio

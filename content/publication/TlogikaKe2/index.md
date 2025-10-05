@@ -31,9 +31,8 @@ tags:
 featured: false
 
 links:
-#- name: Custom Link
-#  url: http://example.org
-url_pdf: /publication/TlogikaKe2/TgasLogiKe-2.pdf
+  - type : pdf
+    url: /publication/TlogikaKe1/TgasLogikPer-2.pdf
 
 
 # Featured image

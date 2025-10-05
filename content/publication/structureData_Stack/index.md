@@ -27,12 +27,12 @@ tags:
 featured: false
 
 links:
-#- name: Custom Link
-#  url: http://example.org
-url_pdf: /publication/structureData_Stack/makalah_stack.pdf
-url_slides: /publication/structureData_Stack/ppt_structurdata.pdf
-url_code: "https://github.com/lildwagz/stack_python"
-
+  - type : pdf
+    url: /publication/structureData_Stack/makalah_stack.pdf
+  - type: code
+    url: "https://github.com/lildwagz/stack_python"
+  - type: slides
+    url: /publication/structureData_Stack/ppt_structurdata.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:

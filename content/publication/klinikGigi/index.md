@@ -26,11 +26,11 @@ tags:
 
 featured: true
 
-links:
-#- name: Custom Link
-#  url: http://example.org
-url_pdf: /publication/TlogikaKe1/TgasLogikPer-1.pdf
-source_code : ""
+#links:
+##- name: Custom Link
+##  url: http://example.org
+#url_pdf: /publication/TlogikaKe1/TgasLogikPer-1.pdf
+#source_code : ""
 
 
 # Featured image

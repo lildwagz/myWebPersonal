@@ -37,12 +37,10 @@ tags:
 featured: false
 
 links:
-#- name: Custom Link
-#  url: http://example.org
-url_video : "https://youtu.be/Y4MeqmBzeVk?si=BJloS43YFj1TuiFk"
-url_poster: "https://www.instagram.com/p/DBtjstKSnW7/?igsh=M3VxaW1kNXVtaTE2"
-
-
+  - type: video
+    url: "https://youtu.be/Y4MeqmBzeVk?si=BJloS43YFj1TuiFk"
+  - type: poster
+    url : "https://www.instagram.com/p/DBtjstKSnW7/?igsh=M3VxaW1kNXVtaTE2"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:

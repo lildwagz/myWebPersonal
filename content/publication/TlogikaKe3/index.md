@@ -29,11 +29,10 @@ tags:
 
 featured: false
 
-links:
-#- name: Custom Link
-#  url: http://example.org
-url_pdf: /publication/TlogikaKe3/TgasLogiKe-3.pdf
 
+links:
+  - type : pdf
+    url: /publication/TlogikaKe1/TgasLogikPer-3.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

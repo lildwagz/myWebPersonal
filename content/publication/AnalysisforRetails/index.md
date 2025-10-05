@@ -29,10 +29,9 @@ tags:
 featured: true
 
 links:
-#- name: Custom Link
-#  url: http://example.org
-url_pdf: "/publication/AnalysisforRetails/PortofolioDataAnalysisforRetails.pdf"
 
+  - type: pdf
+    url: "/publication/AnalysisforRetails/PortofolioDataAnalysisforRetails.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

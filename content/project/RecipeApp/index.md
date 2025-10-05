@@ -1,7 +1,10 @@
 ---
 title: Recipe App full-stack
 date: 2025-05-18
-external_link: https://github.com/lildwagz/RecipeApp
+
+links:
+  - type: site
+    url:  https://github.com/lildwagz/RecipeApp
 tags:
   - Vue.js
   - JS

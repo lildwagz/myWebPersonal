@@ -30,10 +30,8 @@ tags:
 featured: true
 
 links:
-#- name: Custom Link
-#  url: http://example.org
-url_pdf: /publication/AssigmentWeb2_1/webpro2_1.pdf
-source_code : ""
+  - type: pdf
+    url: /publication/AssigmentWeb2_1/webpro2_1.pdf
 
 
 # Featured image

@@ -27,10 +27,8 @@ tags:
 featured: true
 
 links:
-#- name: Custom Link
-#  url: http://example.org
-url_pdf: /publication/2AssigmentDataStructure/AssigmentStructurData_2.pdf
-
+  - type: pdf
+    url:  /publication/2AssigmentDataStructure/AssigmentStructurData_2.pdf 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

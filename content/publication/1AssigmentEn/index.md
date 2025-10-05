@@ -26,11 +26,12 @@ tags:
 
 featured: false
 
-links:
+
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: /publication/1AssigmentEn/meeting1assigmentEn.pdf
-
+links:
+  - type: pdf
+    url: /publication/1AssigmentEn/meeting1assigmentEn.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

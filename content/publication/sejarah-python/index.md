@@ -28,9 +28,8 @@ tags:
 featured: true
 
 links:
-#- name: Custom Link
-#  url: http://example.org
-url_pdf: https://www.scribd.com/document/778773566/SEJARAH-PERKEMBANGAN-PYTHON-DAN-PENGENALAN-PYTHON
+  - type : pdf
+    url: https://www.scribd.com/document/778773566/SEJARAH-PERKEMBANGAN-PYTHON-DAN-PENGENALAN-PYTHON
 
 
 # Featured image
