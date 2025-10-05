@@ -28,7 +28,6 @@
   HUGO_LOG_I18N_WARNINGS = "true"
   HUGO_LOG_WARNINGS = "true"
   FORCE_COLOR = "1"
-  NETLIFY_BUILD_IMAGE = "jammy"
   PNPM_LOG_LEVEL = "debug"
 
 [context.production.environment]
