@@ -159,7 +159,7 @@ languages:
   - name: English
     percent: 100
   - name: Arabic
-    percent: 65
+    percent: 30
   - name: Indonesia
     percent: 100
     
