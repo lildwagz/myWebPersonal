@@ -63,43 +63,55 @@ education:
     date_end : 2022-06-06
     
 work:
-#  - position: Devops Engineer
-#    company_name: Infra Digital Nusantara
-#    company_url: 'https://www.infradigital.io/'
-#    company_logo: 'https://idn-static-assets.s3.ap-southeast-1.amazonaws.com/website/img/logo_infra.png'
-#    date_start: 2024-10-20
-#    date_end: ''
-#    summary: |2-
-#      Responsibilities include:
-#      - Deploy updates and fixes, and provide Level 2 technical support
-#      - Build tools to reduce occurrence of errors and improve customer experience
-#      - Perform root cause analysis of production errors and resolve technical issues
-#      - Develop scripts to automate visualization
+  - position: Application Supp Engineer 
+    company_name: Infra Digital Nusantara
+    company_url: 'https://www.infradigital.io/'
+    company_logo: 'https://idn-static-assets.s3.ap-southeast-1.amazonaws.com/website/img/logo_infra.png'
+    date_start: ''
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - Triage tickets: reproduce issues, gather logs, identify root cause
+      - Support releases: deployment checks, smoke tests, rollback support
+      - Perform root cause analysis of production errors and resolve technical issues
+      - Develop scripts to automate visualization
+      - Implement data validation and monitoring
+      - SQL (to check data, validate transactions, troubleshoot)
      
-#  - position: Co-Founder and Coach of Riliskill 
-#    company_name: Riliskill
-#    company_url: ''
-#    company_logo: ''
-#    date_start: 2021-02-05
-#    date_end: 2021-08-30
-#    summary: |
-#      Responsibilities include:
-#      - Assist with company leadership and vision
-#      - Teaching and Coaching online courses about Database Normalization
-#      - Helping with business goals
-#      - Developing The Company alongside with the Founder in short and long-term strategies
-#     
-#  - position : Team Leader of Stugent Project
-#    company_name : Rabbaanii Islamic School
-#    company_url : 'https://ppdb.rabbaanii.sch.id/'
-#    company_logo : ''
-#    date_start : 2020-12-02
-#    date_end : 2020-12-14
-#    summary : |
-#       Responsibilities include:
-#        - Writing high quality code and performing code reviews for the rest of the team
-#        - Organization and overseeing team communication with clients: live meetings, email correspondence, reporting, etc
-#        - Providing technical leadership and guidance on project plans and delivery commitments 
+  - position: Rider makanan keliling - Pondasi Warga
+    company_name: Pondasi Warga
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-08-23
+    date_end : 2026-01-30
+    summary: |
+      Responsibilities include:
+      - Menjual makanan keliling di titik perkantoran
+     
+  - position: Co-Founder and Coach of Riliskill 
+    company_name: Riliskill
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-02-05
+    date_end: 2021-08-30
+    summary: |
+      Responsibilities include:
+      - Assist with company leadership and vision
+      - Teaching and Coaching online courses about Database Normalization
+      - Helping with business goals
+      - Developing The Company alongside with the Founder in short and long-term strategies
+     
+  - position : Team Leader of Stugent Project
+    company_name : Rabbaanii Islamic School
+    company_url : 'https://ppdb.rabbaanii.sch.id/'
+    company_logo : ''
+    date_start : 2020-12-02
+    date_end : 2020-12-14
+    summary : |
+       Responsibilities include:
+        - Writing high quality code and performing code reviews for the rest of the team
+        - Organization and overseeing team communication with clients: live meetings, email correspondence, reporting, etc
+        - Providing technical leadership and guidance on project plans and delivery commitments 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
