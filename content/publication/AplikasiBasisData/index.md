@@ -1,5 +1,5 @@
 ---
-title: "UAS APLIKASI BASIS DATA"
+title: "UAS APLIKASI BASIS DATA kelompok 6"
 authors:
 - admin
 date: "2026-01-05T00:00:00Z"
@@ -26,7 +26,7 @@ tags:
 featured: true
 
 links:
-  - type: ppt
+  - type: PPT
     url: /publication/AplikasiBasisData/APLIKASI_BASIS_DATA-1.pdf
   - type: pdf
     url: /publication/AplikasiBasisData/lapora_basis_data.pdf
