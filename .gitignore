@@ -1,0 +1,18 @@
+# Hugo build output and caches
+/public/
+/resources/_gen/
+/resources/
+.hugo_build.lock
+hugo_stats.json
+assets/jsconfig.json
+
+# Node
+node_modules/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Secrets
+deploy/.env

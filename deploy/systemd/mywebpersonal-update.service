@@ -1,0 +1,12 @@
+[Unit]
+Description=Pull and restart the personal website if a new image exists
+Wants=network-online.target
+After=network-online.target docker.service
+
+[Service]
+Type=oneshot
+# Adjust to where you cloned the repo on the server.
+WorkingDirectory=/opt/mywebpersonal/deploy
+ExecStart=/usr/bin/docker compose pull --quiet
+ExecStart=/usr/bin/docker compose up -d --remove-orphans
+ExecStartPost=/usr/bin/docker image prune -f

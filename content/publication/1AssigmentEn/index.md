@@ -31,7 +31,7 @@ featured: false
 #  url: http://example.org
 links:
   - type: pdf
-    url: /publication/1AssigmentEn/meeting1assigmentEn.pdf
+    url: /publication/1assigmenten/meeting1assigmentEn.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
