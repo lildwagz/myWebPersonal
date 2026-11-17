@@ -28,7 +28,7 @@ featured: true
 
 links:
   - type: pdf
-    url:  /publication/2AssigmentDataStructure/AssigmentStructurData_2.pdf 
+    url:  /publication/2assigmentdatastructure/AssigmentStructurData_2.pdf 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

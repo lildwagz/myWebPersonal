@@ -1,0 +1,35 @@
+# Runs on the home server. Nothing here publishes a host port:
+# visitors reach `web` only through the Cloudflare Tunnel.
+name: mywebpersonal
+
+services:
+  web:
+    image: ghcr.io/lildwagz/mywebpersonal:latest
+    restart: unless-stopped
+    read_only: true
+    tmpfs:
+      - /data
+      - /config
+    cap_drop: [ALL]
+    security_opt: ["no-new-privileges:true"]
+    networks: [tunnel]
+    healthcheck:
+      test: ["CMD", "wget", "-q", "--spider", "http://127.0.0.1/"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+
+  cloudflared:
+    image: cloudflare/cloudflared:2026.10.0
+    restart: unless-stopped
+    command: tunnel --no-autoupdate run
+    environment:
+      TUNNEL_TOKEN: ${TUNNEL_TOKEN:?set TUNNEL_TOKEN in deploy/.env}
+    depends_on:
+      web:
+        condition: service_healthy
+    security_opt: ["no-new-privileges:true"]
+    networks: [tunnel]
+
+networks:
+  tunnel: {}

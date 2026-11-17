@@ -27,7 +27,7 @@ featured: false
 
 links:
   - type: pdf
-    url: /publication/10AssigmentEn/meeting9assignmentEn.pdf
+    url: /publication/10assigmenten/meeting9assignmentEn.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

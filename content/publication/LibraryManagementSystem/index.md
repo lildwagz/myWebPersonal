@@ -42,11 +42,11 @@ featured: true
 
 links:
   - type: pdf
-    url: "/publication/LibraryManagementSystem/LBS_report.pdf"
+    url: "/publication/librarymanagementsystem/LBS_report.pdf"
   - type: code
     url: "https://github.com/lildwagz/LBS"
   - type : slides
-    url : "/publication/LibraryManagementSystem/LBS_PPT.pdf"
+    url : "/publication/librarymanagementsystem/LBS_PPT.pdf"
 
 
 

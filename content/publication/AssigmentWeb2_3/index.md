@@ -27,7 +27,7 @@ featured: true
 
 links:
   - type: pdf
-    url: /publication/AssigmentWeb2_3/webpro2_3.pdf
+    url: /publication/assigmentweb2_3/webpro2_3.pdf
 
 
 # Featured image

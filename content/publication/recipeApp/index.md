@@ -36,7 +36,7 @@ links:
   - type: code
     url : "https://github.com/lildwagz/RecipeApp"
   - type : slides
-    url:  "/publication/RecipeApp/RecipApp.pdf"
+    url:  "/publication/recipeapp/RecipApp.pdf"
 # Featured image
 image:
   caption: 'Homepage - website resep makanan'

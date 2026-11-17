@@ -4,7 +4,7 @@ date: 2024-10-14
 
 links:
   - type: site
-    url:  https://zamrabbaney.site/publication/AnalysisforRetails
+    url:  https://zamrabbaney.site/publication/analysisforretails
 tags:
   - SQL
   - Data Analysis
