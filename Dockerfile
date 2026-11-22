@@ -1,4 +1,9 @@
 # syntax=docker/dockerfile:1
+# Go toolchain for the build machine. A plain `COPY --from=<image>` resolves the
+# image for the TARGET platform, which put an arm64 `go` into the amd64 build
+# stage during multi-arch builds; a named stage pinned to BUILDPLATFORM avoids it.
+FROM --platform=$BUILDPLATFORM golang:1.23-bookworm AS go
+
 # Stage 1: build the static site. Runs once on the build machine's own
 # architecture; its output (plain HTML/CSS/JS) is architecture-independent.
 FROM --platform=$BUILDPLATFORM node:22-bookworm-slim AS build
@@ -13,7 +18,7 @@ RUN apt-get update \
  && rm -rf /var/lib/apt/lists/*
 
 # Go is required for Hugo Modules (the Hugo Blox theme is a Go module).
-COPY --from=golang:1.23-bookworm /usr/local/go /usr/local/go
+COPY --from=go /usr/local/go /usr/local/go
 ENV PATH=/usr/local/go/bin:$PATH
 
 RUN curl -fsSL "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-${BUILDARCH}.tar.gz" \
