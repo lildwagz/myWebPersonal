@@ -30,7 +30,7 @@ featured: false
 
 links:
   - type : pdf
-    url: /publication/TlogikaKe1/TgasLogikPer-5.pdf
+    url: /publication/tlogikake5/TgasLogiKe-5.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

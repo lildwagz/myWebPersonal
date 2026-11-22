@@ -28,11 +28,11 @@ featured: false
 
 links:
   - type : pdf
-    url: /publication/structureData_Stack/makalah_stack.pdf
+    url: /publication/structuredata_stack/makalah_stack.pdf
   - type: code
     url: "https://github.com/lildwagz/stack_python"
   - type: slides
-    url: /publication/structureData_Stack/ppt_structurdata.pdf
+    url: /publication/structuredata_stack/ppt_structurdata.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:

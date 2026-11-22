@@ -27,9 +27,9 @@ featured: true
 
 links:
   - type: PPT
-    url: /publication/AplikasiBasisData/APLIKASI_BASIS_DATA-1.pdf
+    url: /publication/aplikasibasisdata/APLIKASI_BASIS_DATA-1.pdf
   - type: pdf
-    url: /publication/AplikasiBasisData/lapora_basis_data.pdf
+    url: /publication/aplikasibasisdata/lapora_basis_data.pdf
 
 
 # Featured image

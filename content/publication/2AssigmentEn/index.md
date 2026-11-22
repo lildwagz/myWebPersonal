@@ -28,7 +28,7 @@ links:
 #- name: Custom Link
 #  url: http://example.org
   - type: pdf
-    url: /publication/2AssigmentEn/meeting2assigmentEn.pdf
+    url: /publication/2assigmenten/meeting2assigmentEn.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

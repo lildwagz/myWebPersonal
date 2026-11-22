@@ -27,9 +27,9 @@ featured: true
 
 links:
   - type: pdf
-    url: /publication/catatKerja/Presentasi.pdf
+    url: /publication/catatkerja/Presentasi.pdf
   - type : pdf
-    url : /publication/catatKerja/finalBos.pdf
+    url : /publication/catatkerja/finalBos.pdf
 
 
 # Featured image

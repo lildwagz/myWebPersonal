@@ -32,7 +32,7 @@ featured: false
 
 links:
   - type : pdf
-    url: /publication/TlogikaKe1/TgasLogikPer-2.pdf
+    url: /publication/tlogikake2/TgasLogiKe-2.pdf
 
 
 # Featured image

@@ -28,7 +28,7 @@ featured: false
 
 links:
   - type: pdf
-    url: /publication/MathLatihan1/Latihan1Math.pdf
+    url: /publication/mathlatihan1/Latihan1Math.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
